@@ -3,6 +3,7 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
+@st.cache 
 tag = st.selectbox("Choose a topic", ['love', 'humor', 'life', 'books'])
 
 generateCSV = st.button('generate Csv')
