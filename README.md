@@ -13,6 +13,9 @@ Generate CSV File: The platform provides a handy feature that allows users to im
 
 # Libraries Used
 Beautiful Soup: A Python library for web scraping HTML and XML files.
+
 Pandas: A versatile data manipulation and analysis library.
+
 Requests: A Python library for making HTTP requests.
+
 Streamlit: An open-source Python library used to create interactive web applications for data science.
